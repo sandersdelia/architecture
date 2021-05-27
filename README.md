@@ -12,7 +12,7 @@ Vincent Callebaut and his architectural firm Vincent Callebaut Architectures hav
 
 - As of 2020, pollinators are indeed at risk of extinction, 100 to 1,000 times the acceptable rate, as stated by the United Nations. Conceived as a call to humanity to restore the broken connection between humans and nature, the author with his project seeks to protect ecosystems in order to stop the death of the creatures that sustain plant life.
 
-![Image](sandersdelia3.jpg)
+![Image](sandersdelia3.jpeg)
 
 - Synopsis: Pollinators are biotic agents that transport pollen between male and female flower structures. They are responsible for propagating about 70% of the plants on earth, providing a third of the world's food supply. Biotic agents include bees, bumblebees, wasps, flies, butterflies, ants, beetles, as well as bats, hummingbirds, orioles and tropical woodpeckers.
 
